@@ -1,0 +1,8 @@
+Task 1: Write a python function that takes a 3-d matrix (image) and a 2-d matrix(filter) as inputs. Output of this function is the result of convolving the filter on the image
+
+Task 2: Use MNIST dataset and build a CNN. Kindly use pytorch for training. You need to write a custom dataset function for this, even though built-in datasets are also available for mnist.
+https://pytorch.org/tutorials/beginner/data_loading_tutorial.html
+
+Task 3: You need to run a training using yolov5 repository on a custom dataset. (you can use google colab for this purpose).  I've attached the custom dataset with this email. You need to figure out how to train yolov5 on this dataset so that we can detect objects in it.
+Link to repository: https://github.com/ultralytics/yolov5
+Note: This dataset is in a different format than the format required by YoloV5. you need to convert it into a format that is acceptable by yolov5. Their repository contains all the relevant details.

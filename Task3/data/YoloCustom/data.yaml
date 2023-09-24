@@ -1,0 +1,6 @@
+train: YoloCustom/train/images
+val: YoloCustom/valid/images
+test: YoloCustom/test/images
+
+nc: 2
+names: ['Arturo Fuente', 'Davidoff']
